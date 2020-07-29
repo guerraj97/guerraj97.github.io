@@ -1,7 +1,7 @@
 #basic options
-title: Bienvenido a mi sitio
-author: Jose Guerra
-description: Version 1 - construyendo el sitio
+title: ElectroSource
+author: José Pablo Guerra
+description: La electrónica al alcance de todos
 
 #build settings
 markdown: kramdown
