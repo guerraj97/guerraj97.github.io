@@ -4,8 +4,8 @@ theme: minima
 
 title: ElectroSource
 author:
-  name: José Pablo Guerra
-  email: gue16242@uvg.edu.gt
+  name: "José Pablo Guerra"
+  email: "gue16242@uvg.edu.gt"
 description: > # this means to ignore newlines until "show_excerpts:"
   La electrónica al alcance de todos
 
