@@ -1,2 +1,2 @@
 layout: page
-title: "Probando"
+title: "PAGE TITLE"
