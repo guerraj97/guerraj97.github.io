@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Información General
+## Welcome to another page
 
 _yay_
 
