@@ -5,4 +5,4 @@ description: Version 1 - construyendo el sitio
 
 #build settings
 markdown: kramdown
-theme: jekyll-theme-midnight
+theme: minima
