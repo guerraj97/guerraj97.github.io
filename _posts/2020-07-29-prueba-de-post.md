@@ -34,3 +34,11 @@ otras lineas `c+y`
 Algo de mate:
 
 $$z = x + y $$
+
+prueba de bash
+
+```bash
+git add --all
+git commit -m "Comment";
+git push
+```
