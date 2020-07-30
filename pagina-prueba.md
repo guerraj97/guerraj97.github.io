@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Sobre mí
-permalink: /about/
+permalink: /pagina-prueba/
 ---
 Esta es una pagina de prueba
