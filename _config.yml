@@ -2,6 +2,6 @@ title: ElectroSource
 autor: José Pablo Guerra
 logo: /assets/img/logo.png
 description: La electrónica al alcance de todos.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
