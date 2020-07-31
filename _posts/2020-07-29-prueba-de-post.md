@@ -58,13 +58,13 @@ Aunque con la experiencia y gusto, es posible utilizar la terminal y para eso se
 
 3. Finalmente, al momento de compilar, es necesario correr el programa utilizando el comando siguiente:
 
-```console
-./el_nombre_de_tu_programa_compilado
-```
+    ```console
+    ./el_nombre_de_tu_programa_compilado
+    ```
 ## Github y sus comandos
 
 Finalmente, para los amantes de Github, también hay comandos útiles.
-En lo personal yo uso la aplicación de Github Desktop, pero estos comandos sirven cuando
+En lo personal yo uso la aplicación de Github Desktop, pero estos comandos sirven cuando se tienen muchos archivos. La aplicación de escritorio permite solamente ir añadiendo un archivo a la vez, lo cual, si se tiene 50, 100 o más commits, puede ser tedioso.
 
 ```bash
 git add --all
