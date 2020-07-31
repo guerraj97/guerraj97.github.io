@@ -39,7 +39,7 @@ ls
 ```
 
 
-###Encabezado 3
+## Compilación de código via shell o terminal
 
 *italics*
 
