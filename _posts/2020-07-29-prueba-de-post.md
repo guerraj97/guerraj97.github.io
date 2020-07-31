@@ -21,18 +21,18 @@ El primero es el ***cambiar directorio*** o **change directory** y, tal como su 
 ```console
 cd [-L | -P [-e]] directorio #directorio hacia donde quieres apuntar
 ```
-```bash
+```console
 cd /usr/local/lib #por ejemplo
 ```
 Ahora bien, algunas veces es necesario regresar a un directorio atrás, esto se realiza con el siguiente comando:
 
-```bash
+```console
 cd .. #se mueve un directorio parent (principal) atrás (este quizá es más usado)
 ```
 
 Ahora bien, podemos listar los elementos de una carpeta con el comando ls:
 
-```bash
+```console
 cd Desktop/ #por ejemplo
 ls
 #muestra elementos o carpetas dentro del escritorio
@@ -50,7 +50,7 @@ Aunque con la experiencia y gusto, es posible utilizar la terminal y para eso se
 1. Moverse al directorio donde se encuentre el archivo vía los comandos ya explicados.
 2. Utilizar el comando gcc de la siguiente forma:
 
-    ```console
+    ```bash
     gcc [nombre_de_tu_programa.c] -o el_nombre_de_tu_programa_compilado
     ```
 
