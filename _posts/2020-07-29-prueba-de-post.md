@@ -50,16 +50,15 @@ Aunque con la experiencia y gusto, es posible utilizar la terminal y para eso se
 1. Moverse al directorio donde se encuentre el archivo vía los comandos ya explicados.
 2. Utilizar el comando gcc de la siguiente forma:
 
-```console
-gcc [nombre_de_tu_programa.c] -o el_nombre_de_tu_programa_compilado
-```
+  ```console
+  gcc [nombre_de_tu_programa.c] -o el_nombre_de_tu_programa_compilado
+  ```
 
-**gcc** sirve para mandar a llamar al compilador de C (en el caso de C++ se puede usar **gpp**) y el argumento *-o* se usa para nombrar al archivo ya compilado que es el que se va a correr.
+  **gcc** sirve para mandar a llamar al compilador de C (en el caso de C++ se puede usar **gpp**) y el argumento *-o* se usa para nombrar al archivo ya compilado que es el que se va a correr.
 
 3. Finalmente, al momento de compilar, es necesario correr el programa utilizando el comando siguiente:
 
 ```console
-
 ./el_nombre_de_tu_programa_compilado
 ```
 ## Github y sus comandos
