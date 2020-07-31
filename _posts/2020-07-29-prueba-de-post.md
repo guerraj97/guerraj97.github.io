@@ -6,11 +6,11 @@ excerpt: "bash-commands, Linux, terminal"
 mathjax: "true"
 ---
 
-# Introducción a los comandos básicos en Linux
+## Introducción a los comandos básicos en Linux
 
 Aunque Linux es una herramienta que pocos conocen, el potencial que aporta es inigualable. El objetivo de este post (que por cierto es mi primer post) es mostrar un poco de los comandos básicos que Linux tiene para usarse en la terminal, algo que, cuando se le toma el gusto a este tipo de interfaces, son muy útiles y permiten acceder de manera rápida a las funciones.
 
-## Búsqueda de archivos y acceso a directorios
+### Búsqueda de archivos y acceso a directorios
 Normalmente, estamos acostumbrados a la búsqueda de archivos dando click en las respectivas carpetas.
 Aunque común, Linux ofrece muchas herramientas (como gcc, por ejemplo) de compilación de programas, que no requieren un IDE o interfaz para crear y probar código.
 
@@ -42,7 +42,7 @@ ls
 ```
 
 
-## Compilación de código via shell o terminal
+### Compilación de código via shell o terminal
 
 Una vez se entiende como funciona moverse entre directorios, podemos hablar un poco de la compilación de los programas. Por defecto, la mayoría de sistemas Linux (o basados en Linux como MacOS) tienen el motor de compilación **gcc**
 
@@ -64,7 +64,7 @@ Aunque con la experiencia y gusto, es posible utilizar la terminal y para eso se
     ```console
     ./el_nombre_de_tu_programa_compilado
     ```
-## Github y sus comandos
+### Github y sus comandos
 
 Finalmente, para los amantes de Github, también hay comandos útiles.
 En lo personal yo uso la aplicación de Github Desktop, pero estos comandos sirven cuando se tienen muchos archivos. La aplicación de escritorio permite solamente ir añadiendo un archivo a la vez, lo cual, si se tiene 50, 100 o más commits, puede ser tedioso.
