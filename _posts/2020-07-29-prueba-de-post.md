@@ -4,6 +4,7 @@ date: 2020-07-30
 tags: [Commands,Linux, programming]
 excerpt: "bash-commands, Linux, terminal"
 mathjax: "true"
+permalink: /about/
 ---
 
 ## Introducción a los comandos básicos en Linux
