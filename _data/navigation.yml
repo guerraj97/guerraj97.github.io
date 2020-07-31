@@ -2,12 +2,6 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Sobre mí"
-    url: /about/
-  - title: "Prueba Post"
-    url: /post-prueba/
-  - title: "Prueba Post2"
-    url: /post-prueba2/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
