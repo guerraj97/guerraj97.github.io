@@ -302,3 +302,12 @@ defaults:
       layout: single
       author_profile: false
       share: true
+
+# _proyectos
+  - scope:
+      path: ""
+      type: proyectos
+    values:
+      layout: single
+      author_profile: false
+      share: true
