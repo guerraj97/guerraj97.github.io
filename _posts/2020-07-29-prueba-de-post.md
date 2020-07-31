@@ -41,8 +41,26 @@ ls
 
 ## Compilación de código via shell o terminal
 
-Una ves se entiende como funciona moverse entre directorios, podemos hablar un poco de la compilación de los programas. Por defecto, la mayoría de sistemas Linux (o basados en Linux como MacOS) tienen el motor de compilación **gcc**
+Una vez se entiende como funciona moverse entre directorios, podemos hablar un poco de la compilación de los programas. Por defecto, la mayoría de sistemas Linux (o basados en Linux como MacOS) tienen el motor de compilación **gcc**
 
+No entraré en detalles con respecto a gcc, pero para el conocimiento básico, cuando uno descarga un IDE (como Eclipse, Netbeans entre otros) en linker compiler es gcc, es decir, es lo que permite interpretar el código y llevarlo a su ejecucion (básicamente)
+
+Aunque con la experiencia y gusto, es posible utilizar la terminal y para eso se debe hacer lo siguiente:
+
+1. Moverse al directorio donde se encuentre el archivo vía los comandos ya explicados.
+2. Utilizar el comando gcc de la siguiente forma:
+
+```console
+
+gcc [nombre_de_tu_programa.c] -o el_nombre_de_tu_programa_compilado
+```
+
+**gcc** sirve para mandar a llamar al compilador de C (en el caso de C++ se puede usar **gpp**) y el argumento *-o* se usa para nombrar al archivo ya compilado que es el que se va a correr.
+3. Finalmente, al momento de compilar, es necesario correr el programa utilizando el comando siguiente:
+```console
+
+./el_nombre_de_tu_programa_compilado
+```
 *italics*
 
 **bold**
