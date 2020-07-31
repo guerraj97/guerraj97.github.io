@@ -18,15 +18,15 @@ Aunque, si bien es cierto, alguien que ya ha probado estas herramientas conozca 
 
 El primero es el ***cambiar directorio*** o **change directory** y, tal como su nombre lo indica, sirve para poder moverse entre los directorios del sistema. La sintaxis sería algo así:
 
-```zsh
+```console
 cd [-L | -P [-e]] directorio #directorio hacia donde quieres apuntar
 ```
-```zsh
+```console
 cd /usr/local/lib #por ejemplo
 ```
 Ahora bien, algunas veces es necesario regresar a un directorio atrás, esto se realiza con el siguiente comando:
 
-```zsh
+```console
 cd .. #se mueve un directorio parent (principal) atrás (este quizá es más usado)
 ```
 
