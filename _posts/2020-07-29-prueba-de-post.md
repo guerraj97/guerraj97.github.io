@@ -32,7 +32,7 @@ cd .. #se mueve un directorio parent (principal) atrás (este quizá es más usa
 
 Ahora bien, podemos listar los elementos de una carpeta con el comando ls:
 
-```zsh
+```console
 cd Desktop/ #por ejemplo
 ls
 #muestra elementos o carpetas dentro del escritorio
