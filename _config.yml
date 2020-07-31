@@ -69,7 +69,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "guerraj97"
 facebook:
   username               :
   app_id                 :
@@ -100,7 +100,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "gue16242@uvg.edu.gt"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -269,7 +269,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  proyectos:    
+  proyectos:
     output: true
     permalink: /:collection/:path/
 
