@@ -51,42 +51,18 @@ Aunque con la experiencia y gusto, es posible utilizar la terminal y para eso se
 2. Utilizar el comando gcc de la siguiente forma:
 
 ```console
-
 gcc [nombre_de_tu_programa.c] -o el_nombre_de_tu_programa_compilado
 ```
 
 **gcc** sirve para mandar a llamar al compilador de C (en el caso de C++ se puede usar **gpp**) y el argumento *-o* se usa para nombrar al archivo ya compilado que es el que se va a correr.
+
 3. Finalmente, al momento de compilar, es necesario correr el programa utilizando el comando siguiente:
+
 ```console
 
 ./el_nombre_de_tu_programa_compilado
 ```
-*italics*
-
-**bold**
-
-bullet list:
-* 1
-* 2
-
-number List:
-1 a
-2 b
-
-Python code block:
-
-```python
-import numpy as np
-np.sum(x,y)
-```
-
-otras lineas `c+y`
-
-Algo de mate:
-
-$$z = x + y $$
-
-prueba de bash
+## Github y sus comandos
 
 ```bash
 git add --all
