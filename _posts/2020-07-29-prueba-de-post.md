@@ -41,6 +41,8 @@ ls
 
 ## Compilación de código via shell o terminal
 
+Una ves se entiende como funciona moverse entre directorios, podemos hablar un poco de la compilación de los programas. Por defecto, la mayoría de sistemas Linux (o basados en Linux como MacOS) tienen el motor de compilación **gcc**
+
 *italics*
 
 **bold**
