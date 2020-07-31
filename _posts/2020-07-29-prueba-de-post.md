@@ -66,6 +66,8 @@ Aunque con la experiencia y gusto, es posible utilizar la terminal y para eso se
 Finalmente, para los amantes de Github, también hay comandos útiles.
 En lo personal yo uso la aplicación de Github Desktop, pero estos comandos sirven cuando se tienen muchos archivos. La aplicación de escritorio permite solamente ir añadiendo un archivo a la vez, lo cual, si se tiene 50, 100 o más commits, puede ser tedioso.
 
+Por lo tanto, con estos comandos se garantiza que todos los commits se agreguen y se vayan de una vez, lo cual lo hace más práctico según sea el caso. 
+
 ```bash
 git add --all
 git commit -m "Comment";
