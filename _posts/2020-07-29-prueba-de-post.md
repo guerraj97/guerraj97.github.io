@@ -21,18 +21,18 @@ El primero es el ***cambiar directorio*** o **change directory** y, tal como su 
 ```console
 cd [-L | -P [-e]] directorio #directorio hacia donde quieres apuntar
 ```
-```console
+```bash
 cd /usr/local/lib #por ejemplo
 ```
 Ahora bien, algunas veces es necesario regresar a un directorio atrás, esto se realiza con el siguiente comando:
 
-```console
+```bash
 cd .. #se mueve un directorio parent (principal) atrás (este quizá es más usado)
 ```
 
 Ahora bien, podemos listar los elementos de una carpeta con el comando ls:
 
-```console
+```bash
 cd Desktop/ #por ejemplo
 ls
 #muestra elementos o carpetas dentro del escritorio
@@ -64,7 +64,7 @@ Aunque con la experiencia y gusto, es posible utilizar la terminal y para eso se
 ## Github y sus comandos
 
 Finalmente, para los amantes de Github, también hay comandos útiles.
-En lo personal yo uso la aplicación de Github Desktop
+En lo personal yo uso la aplicación de Github Desktop, pero estos comandos sirven cuando
 
 ```bash
 git add --all
