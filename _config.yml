@@ -269,6 +269,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  proyectos:    
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
