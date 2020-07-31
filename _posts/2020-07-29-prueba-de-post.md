@@ -19,11 +19,21 @@ Aunque, si bien es cierto, alguien que ya ha probado estas herramientas conozca 
 El primero es el ***cambiar directorio*** o **change directory** y, tal como su nombre lo indica, sirve para poder moverse entre los directorios del sistema. La sintaxis sería algo así:
 
 ```bash
-cd [-L | -P [-e]] directorio directorio hacia donde quieres apuntar
+cd [-L | -P [-e]] directorio #directorio hacia donde quieres apuntar
+
+cd /usr/local/lib #por ejemplo
 ```
-Ahora bien, algunos 
+Ahora bien, algunas veces es necesario regresar a un directorio atrás, esto se puede hacer de dos formas:
 
+```bash
+cd - #se mueve un directorio atrás
+```
 
+o bien:
+
+```bash
+cd .. #se mueve un directorio parent (principal) atrás (este quizá es más usado)
+```
 
 ### Encabezado 3
 
