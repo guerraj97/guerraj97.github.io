@@ -2,7 +2,7 @@
 title: "Comandos básicos en la terminal y otros"
 date: 2020-07-30
 tags: [Commands,Linux, programming]
-excerpt: "bash-commands, Linux, terminal"
+excerpt: "bash-commands, Linux, Programming"
 mathjax: "true"
 ---
 
