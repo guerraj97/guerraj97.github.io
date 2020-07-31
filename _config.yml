@@ -96,11 +96,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ingeniero Electrónico"
   location         : "Guatemala, CA"
-  email            :
+  email            : "gue16242@uvg.edu.gt"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "gue16242@uvg.edu.gt"
+      #url: "gue16242@uvg.edu.gt"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
