@@ -93,7 +93,7 @@ analytics:
 # Site Author
 author:
   name             : "José Pablo Guerra"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/Fotos2.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ingeniero Electrónico"
   location         : "Guatemala, CA"
   email            : "gue16242@uvg.edu.gt"
