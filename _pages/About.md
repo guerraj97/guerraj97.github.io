@@ -16,8 +16,8 @@ Ha sido una experiencia interesante, y aunque este fue el primer año, pues es u
 ¡Vaya año! En serio.
 
 Primero, empecemos con lo bueno de este año:
-a Gane olimpiadas vs doctores :sunglasses: :smirk: y me siento feliz de mi tercer lugar (que es lo único que he podido ganar hasta ahora).
-b 
+a Gane olimpiadas vs doctores :sunglasses: :smirk: y me siento feliz de mi tercer lugar, [y aquí tengo mi foto oficial con los de la U](/images/olimpiadas.jpg)
+b  
 
 ## Año 2019
 
