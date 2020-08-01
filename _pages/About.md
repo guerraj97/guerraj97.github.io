@@ -6,6 +6,7 @@ title: Sobre mí en estos años
 ---
 
 ## Año 2016
+[Imagen](/images/Fotos2.JPG)
 
 ## Año 2017
 
