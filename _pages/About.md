@@ -36,3 +36,8 @@ También [publique mi primer libro](/images/lilbro.png), una pequeña colección
 ## Al día de hoy
 [Comencé mi pasantía en Huawei](/images/IDHuawei.png)
 Hice un Upgrade de elementos de red para Claro y unos documentos de guía para un upgrade de elementos para Tigo, además de aprender cosas interesantes acerca del Core Móvil y la red nacional. Mi último trabajo fue un upgrade a elementos de El Salvador.
+Literalmente tuve mi primer trabajo y a pesar de lo duro, pues aprendí demasiado y creo que la experiencia de trabajar en telecomunicaciones es interesante.
+
+Estoy terminando una segunda colección de poemas para publicar mi segundo libro en Amazon.
+
+La verdad han sido años interesantes, y aunque resumido, aquí esta un poco de lo más relevante que me ha pasado en este tiempo.
