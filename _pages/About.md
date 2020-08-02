@@ -17,9 +17,11 @@ Ha sido una experiencia interesante, y aunque este fue el primer año, pues es u
 
 Primero, empecemos con lo bueno de este año:
 
-a Gane olimpiadas vs doctores :sunglasses: :smirk: y me siento feliz de mi tercer lugar, [y aquí tengo mi foto oficial con los de la U](/images/olimpiadas.jpg)
+Gane olimpiadas vs doctores :sunglasses: :smirk: y me siento feliz de mi tercer lugar, [y aquí tengo mi foto oficial con los de la U](/images/olimpiadas.jpg)
 
-b  
+Y ahora, lo no tan bueno (pero de todo se aprende):
+1. Pues, termine con mi novia luego de 4 años
+2. Casi me vuelo 2 clases :disappointed_relieved: incluyendo una con Silvio, la cual agradezco a ver sacado por que no me hubiera gustado llevar esa clase de nuevo la verdad (aunque igual tuve que llevar la 2 :joy:)
 
 ## Año 2019
 
