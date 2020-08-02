@@ -30,7 +30,7 @@ Lo más interesante de este año fue que tuve mi primera entrevista de trabajo (
 
 Hice mi primer CV, hable con chinos y sufrí de nervios, pero fue algo entretenido.
 
-También [publique mi primer libro](/images/lilbro.png), una pequeña colección de cuentos y poemas, al día de hoy se han vendido 5 copias :joy: :joy:
+También [publique mi primer libro](/images/libro.png), una pequeña colección de cuentos y poemas, al día de hoy se han vendido 5 copias :joy: :joy:
 
 
 ## Al día de hoy
