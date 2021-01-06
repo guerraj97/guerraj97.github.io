@@ -1,5 +1,5 @@
 ---
 title: "LSTM to predict stock market prices"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+excerpt: "Using a LSTM to predict the next close price for AAPL"
 
 ---
