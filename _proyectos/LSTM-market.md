@@ -118,3 +118,12 @@ And here are some of the results. The RMS was near 1 so this is a good model, an
 ![Grafico](/images/Grafico_ejemplo.png)
 
 ![rms](/images/rms.png)
+
+## Conclusion
+As you may see, this model is accurate obtaining results and predicting the close price for the APPL stock. This is just an example of how LSTM can be apply to predict values. The code you can find here: https://github.com/guerraj97/Trading-prediction-model and you can do any changes to improve this model or try it and share if the results are consistent with mines.
+
+This is my first post but I have more projects to share and hope to improve in the next articles.
+
+This is just for educational propose, is not and trustworthy method for investment.
+
+The first version of this article was published on February 8, 2021.
