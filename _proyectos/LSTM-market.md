@@ -11,7 +11,7 @@ This is why, after a lot of investigation, I propose a LSTM model that will help
 After this little introduction, let's talk about the model.
 
 ## LSTM: Long Short-Term Memory
-LSTM is a type of Neural Network (a modified version) and his first objetive is to _remember_ data, that's why is called Long Short-Term memory. The idea is that LSTMs are explicitly designed to avoid the long-term dependency problem. This implementation is very usefull when we are trying to solve some time dependency problems. If you want more information, you can refer to this link http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+LSTM is a type of Neural Network (a modified version) and his first objetive is to _remember_ data, that's why is called Long Short-Term memory. The idea is that LSTMs are explicitly designed to avoid the long-term dependency problem. This implementation is very usefull when we are trying to solve some time dependency problems. [If you want more information, you can click here](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 ## Applying LSTM to stock markets.
 Now, I want to explain you how to build and LSTM and how this will _predict_ stock prices.
