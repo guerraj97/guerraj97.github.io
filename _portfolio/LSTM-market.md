@@ -115,9 +115,10 @@ model.fit(x_train, y_train, epochs=2, batch_size=1, verbose=1)
 ```
 
 And here are some of the results. The RMS was near 1 so this is a good model, and the graph shows how accurates is the model.
-![Grafico](/images/Grafico_ejemplo.png)
+{% include figure image_path="/images/Grafico_ejemplo.png" alt="Graph Comparition between data and model." %}
 
-![rms](/images/rms.png)
+{% include figure image_path="/images/rms.png" alt="RMS for LSTM model." %}
+
 
 ## Conclusion
 As you may see, this model is accurate obtaining results and predicting the close price for the APPL stock. This is just an example of how LSTM can be apply to predict values. [You can find the code on my repository](https://github.com/guerraj97/Trading-prediction-model) and do any changes to improve this model or try it and share if the results are consistent with mines.
