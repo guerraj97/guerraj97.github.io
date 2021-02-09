@@ -114,6 +114,6 @@ model.fit(x_train, y_train, epochs=2, batch_size=1, verbose=1)
 ```
 
 And here are some of the results. The RMS was near 1 so this is a good model, and the graph shows how accurates is the model.
-![Grafico](images/Grafico_ejemplo.png)
+![Grafico](/images/Grafico_ejemplo.png)
 
-![rms](images/rms.png)
+![rms](/images/rms.png)
