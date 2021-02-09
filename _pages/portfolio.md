@@ -2,7 +2,7 @@
 title: Portfolio
 layout: collection
 permalink: /portfolio/
-collection: proyectos
+collection: portfolio
 entries_layout: grid
 classes: wide
 ---
