@@ -266,9 +266,9 @@ compress_html:
     envs: development
 
 collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+#  portfolio:
+#    output: true
+#    permalink: /:collection/:path/
   proyectos:
     output: true
     permalink: /:collection/:path/
@@ -278,7 +278,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: proyectos
+      type: posts
     values:
       layout: single
       author_profile: true
