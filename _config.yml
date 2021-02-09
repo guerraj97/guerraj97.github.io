@@ -309,7 +309,7 @@ defaults:
 # _proyectos
   - scope:
       path: ""
-      type: portfolio
+      type: proyectos
     values:
       layout: single
       author_profile: false
