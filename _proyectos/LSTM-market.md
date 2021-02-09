@@ -39,7 +39,7 @@ import tensorflow as tf
 from tensorflow.python.framework import ops
 ```
 
-After importing the necessary libraries, is time to read the informations for the ticker. I use DataReader, but there is a library from Yahoo Finance that give the same information.
+After importing the necessary libraries, is time to read the informations for the ticker. I used DataReader, but there is a library from Yahoo Finance that give the same information.
 
 ```python
 start = datetime.datetime(2012, 1, 1)
@@ -52,7 +52,7 @@ data = df.sort_index(ascending=True, axis=0)
 new_data = pd.DataFrame(index=range(0,len(df)),columns=['Date', 'Close'])
 ```
 
-I drop the irrelevant information and use only the Close price
+I dropped the irrelevant information and used only the Close price
 
 ```python
 new_data = df.drop(['High','Low','Open','Volume','Adj Close'],axis=1)
@@ -95,9 +95,9 @@ def create_predict_data(new_data):
     X_test = np.reshape(X_test, (X_test.shape[0],X_test.shape[1],1))
     return X_test
 ```
-The general idea of this two functions is to separate the input data into train and test. I created 3 datasets: X_train, Y_traing and the valid_dataset. This is going to be the information to feed the model. Now, is important to scale the data. Most of the AI models works better when data is between 0 and 1. Here I use the __MinMaxScaler__ to scale data in between this numbers.
+The general idea of this two functions is to separate the input data into train and test. I created 3 datasets: X_train, Y_train and the valid_dataset. This is going to be the information to feed the model. Now, is important to scale the data. Most of the AI models works better when data is between 0 and 1. Here I used the __MinMaxScaler__ to scale data in between this numbers.
 
-The prediction data (or X_test) is create on the same way by cutting the main dataset into a smaller piece to obtain my information.
+The prediction data (or X_test) was created on the same way by cutting the main dataset into a smaller piece to obtain my information.
 
 Now, another important step: Creating the model.
 First, I created a Sequential object to add the different model features. I created a LSTM model with 70 units, and another with 50 units. Then I added a Dense layer. This combination is the one that had best performance, but you can try to change this and share your results.
