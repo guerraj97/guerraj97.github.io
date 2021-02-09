@@ -6,8 +6,6 @@ main:
     url: /tags-portfolio/
   - title: "Portfolio"
     url: /portfolio/
-  - title: "Proyectos"
-    url: /proyectos/
   - title: "About"
     url: /about/
   # - title: "About"
