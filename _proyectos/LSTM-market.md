@@ -100,6 +100,7 @@ The general idea of this two functions is to separate the input data into train 
 The prediction data (or X_test) was created on the same way by cutting the main dataset into a smaller piece to obtain my information.
 
 Now, another important step: Creating the model.
+
 First, I created a Sequential object to add the different model features. I created a LSTM model with 70 units, and another with 50 units. Then I added a Dense layer. This combination is the one that had best performance, but you can try to change this and share your results.
 
 ```python
