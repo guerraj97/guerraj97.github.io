@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a0b5df8b6a7a532462de23eba78bebf6",
+    "revision": "0d2132cf9d3a3f05e73a93289f132d4f",
     "url": "/index.html"
   },
   {
-    "revision": "9352e35ea794b669fc0e",
+    "revision": "aba102df2f4b526c2883",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "81cc688cf6273ca3df2a",
+    "revision": "624a92b586f130d1f538",
     "url": "/static/css/4.d7ceb645.chunk.css"
   },
   {
-    "revision": "ca68b0d9e768287e8d73",
+    "revision": "0361ac8e1f0912f41f85",
     "url": "/static/css/main.df356eda.chunk.css"
   },
   {
-    "revision": "16a45f1a3ca23fe48573",
-    "url": "/static/js/2.e517f904.chunk.js"
+    "revision": "737eda4bd104ba1b4f37",
+    "url": "/static/js/2.24420015.chunk.js"
   },
   {
     "revision": "b045256696e9edb485ef902b6be54c14",
-    "url": "/static/js/2.e517f904.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.24420015.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9352e35ea794b669fc0e",
-    "url": "/static/js/3.3ef5d3f3.chunk.js"
+    "revision": "aba102df2f4b526c2883",
+    "url": "/static/js/3.6c3aed2b.chunk.js"
   },
   {
-    "revision": "81cc688cf6273ca3df2a",
-    "url": "/static/js/4.27681039.chunk.js"
+    "revision": "624a92b586f130d1f538",
+    "url": "/static/js/4.19b97bbb.chunk.js"
   },
   {
-    "revision": "ca68b0d9e768287e8d73",
-    "url": "/static/js/main.5cb60013.chunk.js"
+    "revision": "0361ac8e1f0912f41f85",
+    "url": "/static/js/main.dcaa00d6.chunk.js"
   },
   {
-    "revision": "edbbbbc38bf390d23cd5",
-    "url": "/static/js/runtime-main.41a3fac5.js"
+    "revision": "ce2c3e6bb2934b7c4240",
+    "url": "/static/js/runtime-main.c26fe82d.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -68,20 +68,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/UVGLogo.80c4214b.webp"
   },
   {
-    "revision": "47a7a717679b640ceb1b05d38c480a61",
-    "url": "/static/media/codeInLogo.47a7a717.webp"
-  },
-  {
     "revision": "51cf7192327488da3d2a171280680c16",
     "url": "/static/media/contactMailDark.51cf7192.svg"
   },
   {
-    "revision": "59389695208d7454c6607bed51ed4316",
-    "url": "/static/media/developerActivity.59389695.svg"
+    "revision": "fd703be5640295008b2286ac0c7c0170",
+    "url": "/static/media/deepLogo.fd703be5.png"
   },
   {
-    "revision": "e79c639294c805688be731921368c8f8",
-    "url": "/static/media/googleAssistantLogo.e79c6392.webp"
+    "revision": "59389695208d7454c6607bed51ed4316",
+    "url": "/static/media/developerActivity.59389695.svg"
   },
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
@@ -90,10 +86,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "829ad0a1deef4d7295adfecdf12df2be",
     "url": "/static/media/nextuLogo.829ad0a1.webp"
-  },
-  {
-    "revision": "ee62cb58630f29a6e6201b49d4c03728",
-    "url": "/static/media/pwaLogo.ee62cb58.webp"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
