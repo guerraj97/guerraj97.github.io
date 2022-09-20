@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "130728d7c627e6121613f22364f1e6f5",
+    "revision": "2d05bb2f195c8d903479e0eac1c20aec",
     "url": "/index.html"
   },
   {
-    "revision": "4ac0b4b43ebc138bf9b2",
+    "revision": "9352e35ea794b669fc0e",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "2ab4e7e22b10ea9c28d6",
+    "revision": "81cc688cf6273ca3df2a",
     "url": "/static/css/4.d7ceb645.chunk.css"
   },
   {
-    "revision": "b157faf1bcdda3adca9f",
+    "revision": "58e4d7b7e66bf5869cd5",
     "url": "/static/css/main.1a6005f5.chunk.css"
   },
   {
-    "revision": "940a2f418bff47d84725",
-    "url": "/static/js/2.a1221bde.chunk.js"
+    "revision": "7a74798f49cc07c4fcc9",
+    "url": "/static/js/2.76133ce0.chunk.js"
   },
   {
     "revision": "b045256696e9edb485ef902b6be54c14",
-    "url": "/static/js/2.a1221bde.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.76133ce0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4ac0b4b43ebc138bf9b2",
-    "url": "/static/js/3.62b7e3e8.chunk.js"
+    "revision": "9352e35ea794b669fc0e",
+    "url": "/static/js/3.3ef5d3f3.chunk.js"
   },
   {
-    "revision": "2ab4e7e22b10ea9c28d6",
-    "url": "/static/js/4.fbb8675a.chunk.js"
+    "revision": "81cc688cf6273ca3df2a",
+    "url": "/static/js/4.27681039.chunk.js"
   },
   {
-    "revision": "b157faf1bcdda3adca9f",
-    "url": "/static/js/main.8b1aea1b.chunk.js"
+    "revision": "58e4d7b7e66bf5869cd5",
+    "url": "/static/js/main.aae4774c.chunk.js"
   },
   {
-    "revision": "3ee67be9ff6ef2556c25",
-    "url": "/static/js/runtime-main.735fabae.js"
+    "revision": "edbbbbc38bf390d23cd5",
+    "url": "/static/js/runtime-main.41a3fac5.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "80c4214b6f3b8e6103881007d1287d73",
+    "url": "/static/media/UVGLogo.80c4214b.webp"
   },
   {
     "revision": "c59720d63dc3595a12e1c7e641a1bfa5",
@@ -72,10 +76,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/googleAssistantLogo.e79c6392.webp"
   },
   {
-    "revision": "35ef5e915631be2c31ccdff55b53db29",
-    "url": "/static/media/harvardLogo.35ef5e91.png"
-  },
-  {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/static/media/manOnTable.52be3144.svg"
   },
@@ -98,10 +98,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
     "url": "/static/media/skill.34409398.svg"
-  },
-  {
-    "revision": "3b758ef56d398145542e137daa28e392",
-    "url": "/static/media/stanfordLogo.3b758ef5.png"
   },
   {
     "revision": "13780cdd0144cacdef25486e2c2503f8",
