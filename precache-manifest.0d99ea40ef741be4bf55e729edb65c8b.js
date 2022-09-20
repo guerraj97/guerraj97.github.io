@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3ee5310ba3a7c7aa188dcdbfdf1987b4",
+    "revision": "8ead6f9a922f0e438f4d26f39c1952e0",
     "url": "/index.html"
   },
   {
@@ -12,16 +12,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.d7ceb645.chunk.css"
   },
   {
-    "revision": "644981f28bd570de6a28",
+    "revision": "ff7bc3e15a0fa5858b18",
     "url": "/static/css/main.1a6005f5.chunk.css"
   },
   {
-    "revision": "7a74798f49cc07c4fcc9",
-    "url": "/static/js/2.76133ce0.chunk.js"
+    "revision": "16a45f1a3ca23fe48573",
+    "url": "/static/js/2.e517f904.chunk.js"
   },
   {
     "revision": "b045256696e9edb485ef902b6be54c14",
-    "url": "/static/js/2.76133ce0.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.e517f904.chunk.js.LICENSE.txt"
   },
   {
     "revision": "9352e35ea794b669fc0e",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.27681039.chunk.js"
   },
   {
-    "revision": "644981f28bd570de6a28",
-    "url": "/static/js/main.5fc56678.chunk.js"
+    "revision": "ff7bc3e15a0fa5858b18",
+    "url": "/static/js/main.e3b70f9f.chunk.js"
   },
   {
     "revision": "edbbbbc38bf390d23cd5",
@@ -44,16 +44,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Agustina.21f233e1.woff"
   },
   {
+    "revision": "722f1b265920053088513f90f0f55bcb",
+    "url": "/static/media/HuaweiLogo.722f1b26.webp"
+  },
+  {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "80c4214b6f3b8e6103881007d1287d73",
-    "url": "/static/media/UVGLogo.80c4214b.webp"
+    "revision": "5ac8230f5fc9cc0b99cdf3e1e3e501ff",
+    "url": "/static/media/RSILogo.5ac8230f.png"
   },
   {
-    "revision": "c59720d63dc3595a12e1c7e641a1bfa5",
-    "url": "/static/media/airbnbLogo.c59720d6.png"
+    "revision": "bf9a0bd610014dc55c80531a1c9d1024",
+    "url": "/static/media/TelegrafoLogo.bf9a0bd6.jpeg"
+  },
+  {
+    "revision": "80c4214b6f3b8e6103881007d1287d73",
+    "url": "/static/media/UVGLogo.80c4214b.webp"
   },
   {
     "revision": "47a7a717679b640ceb1b05d38c480a61",
@@ -66,10 +74,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "59389695208d7454c6607bed51ed4316",
     "url": "/static/media/developerActivity.59389695.svg"
-  },
-  {
-    "revision": "8ddf76a14a2e3ad3ba62b46d49a75a74",
-    "url": "/static/media/facebookLogo.8ddf76a1.png"
   },
   {
     "revision": "e79c639294c805688be731921368c8f8",
@@ -86,10 +90,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee62cb58630f29a6e6201b49d4c03728",
     "url": "/static/media/pwaLogo.ee62cb58.webp"
-  },
-  {
-    "revision": "4b2938b9f5ea2f1ddbd45dccaff628bc",
-    "url": "/static/media/quoraLogo.4b2938b9.png"
   },
   {
     "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
