@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5f03bc2ad7fc2b431e1da088bc85b46a",
+    "revision": "6c1fd1d62574f908c6baa74d20478486",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.d7ceb645.chunk.css"
   },
   {
-    "revision": "2906da979fcbc935fb85",
+    "revision": "232ab2c3ea6eba691655",
     "url": "/static/css/main.7f86a242.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.19b97bbb.chunk.js"
   },
   {
-    "revision": "2906da979fcbc935fb85",
-    "url": "/static/js/main.505feaf3.chunk.js"
+    "revision": "232ab2c3ea6eba691655",
+    "url": "/static/js/main.d98981c8.chunk.js"
   },
   {
     "revision": "ce2c3e6bb2934b7c4240",
@@ -64,8 +64,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/TelegrafoLogo.bf9a0bd6.jpeg"
   },
   {
-    "revision": "80c4214b6f3b8e6103881007d1287d73",
-    "url": "/static/media/UVGLogo.80c4214b.webp"
+    "revision": "1ea9b7abb8d049b5c0f953eeaf85f82c",
+    "url": "/static/media/UVGLogo.1ea9b7ab.png"
   },
   {
     "revision": "51cf7192327488da3d2a171280680c16",

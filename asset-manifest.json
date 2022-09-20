@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.7f86a242.chunk.css",
-    "main.js": "/static/js/main.505feaf3.chunk.js",
-    "main.js.map": "/static/js/main.505feaf3.chunk.js.map",
+    "main.js": "/static/js/main.d98981c8.chunk.js",
+    "main.js.map": "/static/js/main.d98981c8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c26fe82d.js",
     "runtime-main.js.map": "/static/js/runtime-main.c26fe82d.js.map",
     "static/js/2.24420015.chunk.js": "/static/js/2.24420015.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.19b97bbb.chunk.js": "/static/js/4.19b97bbb.chunk.js",
     "static/js/4.19b97bbb.chunk.js.map": "/static/js/4.19b97bbb.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a32146465fd41c262565cb57558f10cf.js": "/precache-manifest.a32146465fd41c262565cb57558f10cf.js",
+    "precache-manifest.b6258f129f8b08e20769b1c9b833ae83.js": "/precache-manifest.b6258f129f8b08e20769b1c9b833ae83.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
     "static/css/4.d7ceb645.chunk.css.map": "/static/css/4.d7ceb645.chunk.css.map",
@@ -25,7 +25,7 @@
     "static/media/RIES.jpg": "/static/media/RIES.45b78ba1.jpg",
     "static/media/RSILogo.png": "/static/media/RSILogo.5ac8230f.png",
     "static/media/TelegrafoLogo.jpeg": "/static/media/TelegrafoLogo.bf9a0bd6.jpeg",
-    "static/media/UVGLogo.webp": "/static/media/UVGLogo.80c4214b.webp",
+    "static/media/UVGLogo.png": "/static/media/UVGLogo.1ea9b7ab.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
     "static/media/deepLogo.png": "/static/media/deepLogo.fd703be5.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
@@ -38,6 +38,6 @@
     "static/js/runtime-main.c26fe82d.js",
     "static/js/2.24420015.chunk.js",
     "static/css/main.7f86a242.chunk.css",
-    "static/js/main.505feaf3.chunk.js"
+    "static/js/main.d98981c8.chunk.js"
   ]
 }
