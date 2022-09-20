@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.7ec7727c.chunk.css",
+    "main.css": "/static/css/main.74f731de.chunk.css",
     "main.js": "/static/js/main.c17703bc.chunk.js",
     "main.js.map": "/static/js/main.c17703bc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.41a3fac5.js",
@@ -14,11 +14,11 @@
     "static/js/4.27681039.chunk.js": "/static/js/4.27681039.chunk.js",
     "static/js/4.27681039.chunk.js.map": "/static/js/4.27681039.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.30bfc28b28b0b3f7d3ab9123b8005622.js": "/precache-manifest.30bfc28b28b0b3f7d3ab9123b8005622.js",
+    "precache-manifest.0e69efd62e831a9bfeb97b66f3bef476.js": "/precache-manifest.0e69efd62e831a9bfeb97b66f3bef476.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
     "static/css/4.d7ceb645.chunk.css.map": "/static/css/4.d7ceb645.chunk.css.map",
-    "static/css/main.7ec7727c.chunk.css.map": "/static/css/main.7ec7727c.chunk.css.map",
+    "static/css/main.74f731de.chunk.css.map": "/static/css/main.74f731de.chunk.css.map",
     "static/js/2.6c75b53b.chunk.js.LICENSE.txt": "/static/js/2.6c75b53b.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/HuaweiLogo.webp": "/static/media/HuaweiLogo.722f1b26.webp",
@@ -37,7 +37,7 @@
   "entrypoints": [
     "static/js/runtime-main.41a3fac5.js",
     "static/js/2.6c75b53b.chunk.js",
-    "static/css/main.7ec7727c.chunk.css",
+    "static/css/main.74f731de.chunk.css",
     "static/js/main.c17703bc.chunk.js"
   ]
 }
