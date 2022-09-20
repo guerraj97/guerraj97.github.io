@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.bbf53258.chunk.css",
-    "main.js": "/static/js/main.92ae2930.chunk.js",
-    "main.js.map": "/static/js/main.92ae2930.chunk.js.map",
+    "main.js": "/static/js/main.77d710d0.chunk.js",
+    "main.js.map": "/static/js/main.77d710d0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.41a3fac5.js",
     "runtime-main.js.map": "/static/js/runtime-main.41a3fac5.js.map",
     "static/js/2.6c75b53b.chunk.js": "/static/js/2.6c75b53b.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.27681039.chunk.js": "/static/js/4.27681039.chunk.js",
     "static/js/4.27681039.chunk.js.map": "/static/js/4.27681039.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.0a122cd7007c19605a7da130f692ad17.js": "/precache-manifest.0a122cd7007c19605a7da130f692ad17.js",
+    "precache-manifest.287ccfe44fd33ef8460453f266037288.js": "/precache-manifest.287ccfe44fd33ef8460453f266037288.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
     "static/css/4.d7ceb645.chunk.css.map": "/static/css/4.d7ceb645.chunk.css.map",
@@ -23,7 +23,7 @@
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/HuaweiLogo.webp": "/static/media/HuaweiLogo.722f1b26.webp",
     "static/media/RIES.jpg": "/static/media/RIES.45b78ba1.jpg",
-    "static/media/RSILogo.png": "/static/media/RSILogo.5ac8230f.png",
+    "static/media/RSILogo.png": "/static/media/RSILogo.2306fba7.png",
     "static/media/TelegrafoLogo.jpeg": "/static/media/TelegrafoLogo.bf9a0bd6.jpeg",
     "static/media/UVGLogo.png": "/static/media/UVGLogo.1ea9b7ab.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
@@ -38,6 +38,6 @@
     "static/js/runtime-main.41a3fac5.js",
     "static/js/2.6c75b53b.chunk.js",
     "static/css/main.bbf53258.chunk.css",
-    "static/js/main.92ae2930.chunk.js"
+    "static/js/main.77d710d0.chunk.js"
   ]
 }
