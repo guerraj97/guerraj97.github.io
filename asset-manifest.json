@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.1a6005f5.chunk.css",
-    "main.js": "/static/js/main.e3b70f9f.chunk.js",
-    "main.js.map": "/static/js/main.e3b70f9f.chunk.js.map",
+    "main.js": "/static/js/main.5cb60013.chunk.js",
+    "main.js.map": "/static/js/main.5cb60013.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.41a3fac5.js",
     "runtime-main.js.map": "/static/js/runtime-main.41a3fac5.js.map",
     "static/js/2.e517f904.chunk.js": "/static/js/2.e517f904.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.27681039.chunk.js": "/static/js/4.27681039.chunk.js",
     "static/js/4.27681039.chunk.js.map": "/static/js/4.27681039.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.0d99ea40ef741be4bf55e729edb65c8b.js": "/precache-manifest.0d99ea40ef741be4bf55e729edb65c8b.js",
+    "precache-manifest.22780acae0bc0ff4460986c21cb3aaeb.js": "/precache-manifest.22780acae0bc0ff4460986c21cb3aaeb.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
     "static/css/4.d7ceb645.chunk.css.map": "/static/css/4.d7ceb645.chunk.css.map",
@@ -22,6 +22,7 @@
     "static/js/2.e517f904.chunk.js.LICENSE.txt": "/static/js/2.e517f904.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/HuaweiLogo.webp": "/static/media/HuaweiLogo.722f1b26.webp",
+    "static/media/RIES.jpg": "/static/media/RIES.45b78ba1.jpg",
     "static/media/RSILogo.png": "/static/media/RSILogo.5ac8230f.png",
     "static/media/TelegrafoLogo.jpeg": "/static/media/TelegrafoLogo.bf9a0bd6.jpeg",
     "static/media/UVGLogo.webp": "/static/media/UVGLogo.80c4214b.webp",
@@ -32,7 +33,6 @@
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
     "static/media/nextuLogo.webp": "/static/media/nextuLogo.829ad0a1.webp",
     "static/media/pwaLogo.webp": "/static/media/pwaLogo.ee62cb58.webp",
-    "static/media/saayaHealthLogo.webp": "/static/media/saayaHealthLogo.25018d29.webp",
     "static/media/skill.svg": "/static/media/skill.34409398.svg",
     "static/media/TalkCard.scss": "/static/media/talksCardBack.13780cdd.svg"
   },
@@ -40,6 +40,6 @@
     "static/js/runtime-main.41a3fac5.js",
     "static/js/2.e517f904.chunk.js",
     "static/css/main.1a6005f5.chunk.css",
-    "static/js/main.e3b70f9f.chunk.js"
+    "static/js/main.5cb60013.chunk.js"
   ]
 }
